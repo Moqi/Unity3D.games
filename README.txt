@@ -1,0 +1,1 @@
+To run any game, download the game folder and without making any changes to it, run the .exe application from it.
